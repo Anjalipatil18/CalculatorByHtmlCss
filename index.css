@@ -1,0 +1,35 @@
+body{
+        background-image: url(images.jpeg);
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    .formstyle{
+        opacity: 1;
+        width: 350px;    
+        height: 485px;
+        border:20px solid #0c41d8;
+        margin: auto;
+        /*background-color: #9999e0;*/
+        margin-top: 90px;
+    }
+    .padding{
+        width: 327px;
+        padding: 25px 0px;
+    }
+    input{
+        width: 100px;
+        margin: 6px;
+        padding: 13px;
+        font-size: 20px;
+        /* background-color: blue;*/
+    }
+    input:hover{
+        background-color: #9e9e9eb0;
+        transition: 3s;
+    }
+    .width{
+        width:332px;
+        /*padding: 16px 0px;*/
+        font-size: 25px;
+    }
+	
